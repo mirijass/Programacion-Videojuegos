@@ -1,4 +1,4 @@
-# Simple-gallery Responsive Template
+# Programación de videojuegos
 
 Responsive gallery one-page template template, designed and coded by [Maxim Orlov](https://github.com/orlovmax). 
 
