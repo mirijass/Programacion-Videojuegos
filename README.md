@@ -2,7 +2,7 @@
 
 Responsive gallery one-page template template, designed and coded by [Maxim Orlov](https://github.com/orlovmax). 
 
-Demo: [http://website-templates.github.io/simple-gallery_responsive-template](http://website-templates.github.io/simple-gallery_responsive-template/)
+Tutorial 2: [[http://website-templates.github.io/simple-gallery_responsive-template](http://website-templates.github.io/simple-gallery_responsive-template/)](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Pruebas%20P2.pdf)
 
 ![Mockup demo](screenshots/pic.jpg)
 Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
