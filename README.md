@@ -1,6 +1,6 @@
 # Programación de videojuegos
 
-#Tutoriales
+# Tutoriales
 
 Tutorial 1 [(http://website-templates.github.io/simple-gallery_responsive-template/)](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Pruebas%20P1.pdf)
 
