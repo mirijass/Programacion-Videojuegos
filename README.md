@@ -6,8 +6,8 @@ Tutorial 1 [(http://website-templates.github.io/simple-gallery_responsive-templa
 
 Tutorial 2: [(http://website-templates.github.io/simple-gallery_responsive-template/)](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Pruebas%20P2.pdf)
 
-![Mockup demo](screenshots/pic.jpg)
-Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
+Tutorial 2: [(http://website-templates.github.io/simple-gallery_responsive-template/)]
+
 
 ## Contents
 * [Folder structure](#folder-and-file-structure)
