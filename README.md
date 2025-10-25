@@ -1,11 +1,13 @@
 # Programación de videojuegos
 
-Responsive gallery one-page template template, designed and coded by [Maxim Orlov](https://github.com/orlovmax). 
+## Tutoriales
 
-Demo: [http://website-templates.github.io/simple-gallery_responsive-template](http://website-templates.github.io/simple-gallery_responsive-template/)
+Tutorial 1 [(http://website-templates.github.io/simple-gallery_responsive-template/)](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Pruebas%20P1.pdf)
 
-![Mockup demo](screenshots/pic.jpg)
-Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
+Tutorial 2: [(http://website-templates.github.io/simple-gallery_responsive-template/)](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Pruebas%20P2.pdf)
+
+Tutorial 3: 
+
 
 ## Contents
 * [Folder structure](#folder-and-file-structure)
