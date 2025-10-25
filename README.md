@@ -8,8 +8,7 @@ Tutorial 2: [(http://website-templates.github.io/simple-gallery_responsive-templ
 
 Tutorial 3:  [(http://website-templates.github.io/simple-gallery_responsive-template/)](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Tutorial3.pdf)
 
-Tutorial 3:  [(http://website-templates.github.io/simple-gallery_responsive-template/)]([https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Tutorial3.pdf](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Tutorial3.mp4
-))
+Tutorial 3:  [(http://website-templates.github.io/simple-gallery_responsive-template/)](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Tutorial3.mp4)
 
 
 ## Contents
