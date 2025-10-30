@@ -14,8 +14,7 @@ Aquí encontrarás archivos PDF, videos e imágenes correspondientes a cada prá
 | **Tutorial 3** | [Ver PDF](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Tutorial3.pdf) | [Ver video](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Tutorial3.mp4) | — |
 
 ---
-
-🌐 **Plantilla base utilizada:** [Simple Gallery Responsive Template](http://website-templates.github.io/simple-gallery_responsive-template/)
+## 🎮Videojuego
 
 ---
 
