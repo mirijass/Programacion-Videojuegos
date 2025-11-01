@@ -19,9 +19,8 @@ Aquí encontrarás archivos PDF, videos e imágenes correspondientes a cada prá
 
 ## 🎮 Videojuego
 
-*(Aquí puedes agregar una breve descripción del juego o capturas adicionales si quieres mostrar el resultado final.)*
 
 ---
 
 ✨ **Autora:** *Miriam Jasmin Guerrero Lozano*  
-📧 [miriam204@gmail.com](mailto:miriam204@gmail.com)
+📧 [miriamlozano204@gmail.com](mailto:miriamlozano204@gmail.com)
