@@ -19,6 +19,8 @@ Aquí encontrarás archivos PDF, videos e imágenes correspondientes a cada prá
 
 ## 🎮 Videojuego
 
+![Storyboard](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Imagenes/Storyboard.png?raw=true)
+
 
 ---
 
