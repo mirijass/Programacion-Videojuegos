@@ -17,6 +17,15 @@ Aquí encontrarás archivos PDF, videos e imágenes correspondientes a cada prá
 
 ---
 
+## 📚 TVideojuego
+
+| 🧩 Tutorial | 📄 Storyboard | 🎥 Video | 🖼️ Imagen |
+|-------------|--------|----------|------------|
+| **Nivel 1** | [Ver PDF](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Pruebas%20P1.pdf) | [Ver video](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Evidencia%20Prototipo2.mp4) | — |
+| **Nivel 2** | [Ver PDF](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Pruebas%20P2.pdf) | [Ver video](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Tutorial2.mp4) | <img src="https://github.com/mirijass/Programacion-Videojuegos/blob/main/Imagenes/tutorial2.png?raw=true" width="200"> |
+| **Nivel 3** | [Ver PDF](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Tutorial3.pdf) | [Ver video](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Evidencias/Tutorial3.mp4) | <img src="https://github.com/mirijass/Programacion-Videojuegos/blob/main/Imagenes/tutorial3.png?raw=true" width="200"> |
+
+
 ## 🎮 Videojuego
 
 ![Storyboard](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Imagenes/Storyboard.png?raw=true)
