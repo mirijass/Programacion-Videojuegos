@@ -24,8 +24,6 @@ Aquí encontrarás archivos PDF, videos e imágenes correspondientes a cada prá
 | **Nivel 2** | — | — | — |
 | **Nivel 3** | — | — | — |
 
----
-## 🎮 Videojuego
 
 
 ✨ **Autora:** *Miriam Jasmin Guerrero Lozano*  
