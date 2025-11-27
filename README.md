@@ -21,8 +21,8 @@ Aquí encontrarás archivos PDF, videos e imágenes correspondientes a cada prá
 | 🧩 Nivel | 📄 Storyboard | 🎥 Video | 🖼️ Imagen |
 |---------|---------------|----------|------------|
 | **Nivel 1** | [<img src="https://github.com/mirijass/Programacion-Videojuegos/blob/main/Videojuego/Storyboard%20videojuego%20.pdf?raw=true" width="200">](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Videojuego/Storyboard%20videojuego%20.pdf) | [🎬 Ver video](https://github.com/mirijass/Programacion-Videojuegos/blob/main/Videojuego/Nivel1.mp4) | <img src="https://github.com/mirijass/Programacion-Videojuegos/blob/main/Videojuego/nivel1Img.png?raw=true" width="200"> |
-| **Nivel 2** | — |  [🎬 Ver video](https://drive.google.com/file/d/1D8i80CXCPUTTgYeOB9cL6RFRa1gkEL7T/view?usp=sharing)) | — |
-| **Nivel 3** | — |  | — |
+| **Nivel 2** | — |  [🎬 Ver video](https://drive.google.com/file/d/1D8i80CXCPUTTgYeOB9cL6RFRa1gkEL7T/view?usp=sharing) | — |
+| **Nivel 3** | — |  [🎬 Ver video]([https://drive.google.com/file/d/1D8i80CXCPUTTgYeOB9cL6RFRa1gkEL7T/view?usp=sharing](https://drive.google.com/file/d/1TOEt5ZIBXM9A4qpw8JZILjNHCIvBi5q4/view?usp=sharing)) | — |
 
 
 
